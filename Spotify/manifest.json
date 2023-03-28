@@ -1,0 +1,22 @@
+{
+    "name": "Spotify",
+    "short _name": "spotify",
+    "start_url":"index.html",
+    "display": "standalone",
+    "theme_color": "#2196F3",
+    "background_color": "#FFFFFF",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "image.png",
+            "type": "image/png",
+            "sizes":"144X144"
+        },
+        {
+            "src": "image2.png",
+            "type": "image/png",
+            "sizes":"512x512",
+            "purpose":"maskable"
+        }
+    ]
+}
